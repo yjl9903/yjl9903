@@ -1,8 +1,14 @@
 # XLor
 
-Studying CS at Nan Jing University of Science and Technology.
+Active ICPCer.
+![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor)
 
-Active ICPCer ![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor).
+Studying CS at Nan Jing University of Science and Technology.
+Learning web development and Functional Programming.
+
+Love 青葉 モカ, 美竹 蘭 and Afterglow
+
+<img src="./moka.png" style="zoom: 33%;" />
 
 ## Projects
 
