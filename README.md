@@ -1,6 +1,7 @@
 # XLor
 
 Active ICPCer.
+
 ![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor)
 
 Studying CS at Nan Jing University of Science and Technology.
