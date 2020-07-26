@@ -7,9 +7,9 @@ Studying CS at Nan Jing University of Science and Technology.
 
 Learning web development and Functional Programming.
 
-Love 青葉 モカ, 美竹 蘭 and Afterglow
+Love 青葉 モカ, 美竹 蘭 and Afterglow!
 
-<img src="https://raw.githubusercontent.com/yjl9903/yjl9903/master/moka.png" alt="青葉 モカ" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/yjl9903/yjl9903/master/moka.png" alt="青葉 モカ" width="128" />
 
 ## Projects
 
