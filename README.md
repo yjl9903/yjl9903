@@ -12,6 +12,10 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 
 <img src="https://raw.githubusercontent.com/yjl9903/yjl9903/master/moka.png" alt="青葉 モカ" width="128" />
 
+## Stats
+
+[![XLor's github stats](https://github-readme-stats.vercel.app/api?username=yjl9903&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects
 
 + [XLorJudge](https://github.com/yjl9903/XLorJudge): A Competitive Programming Contest Judge Server for XLor Online Judge.
