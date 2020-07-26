@@ -1,12 +1,12 @@
 # XLor
 
-Active ICPCer.
+An Active ICPCer.
 
 [![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor)](http://codeforces.com/profile/XLor)
 
 Studying CS at Nan Jing University of Science and Technology.
 
-Learning web development and Functional Programming.
+Learning Web Development and Functional Programming.
 
 Love 青葉 モカ, 美竹 蘭 and Afterglow!
 
