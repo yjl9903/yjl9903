@@ -27,10 +27,10 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    532 commits    █████████░░░░░░░░░░░░░░░░   37.97% 
-🌆 Daytime    648 commits    ███████████░░░░░░░░░░░░░░   46.25% 
-🌃 Evening    84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
-🌙 Night      137 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.78%
+🌞 Morning    532 commits    █████████░░░░░░░░░░░░░░░░   37.95% 
+🌆 Daytime    648 commits    ███████████░░░░░░░░░░░░░░   46.22% 
+🌃 Evening    85 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+🌙 Night      137 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.77%
 
 ```
 
