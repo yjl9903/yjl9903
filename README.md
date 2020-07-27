@@ -16,6 +16,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 
 [![XLor's github stats](https://github-readme-stats.vercel.app/api?username=yjl9903&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Projects
 
 + [XLorJudge](https://github.com/yjl9903/XLorJudge): A Competitive Programming Contest Judge Server for XLor Online Judge.
