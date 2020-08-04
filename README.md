@@ -28,28 +28,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 897 Contributions in year 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 0 Owned Private Repository 
- > 
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-🌆 Daytime    475 commits    ████████░░░░░░░░░░░░░░░░░   33.01% 
-🌃 Evening    654 commits    ███████████░░░░░░░░░░░░░░   45.45% 
-🌙 Night      196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62%
-
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.0%20million%20Lines%20of%20code-blue)
 
 📊 **This week I spent my time on** 
 
@@ -90,10 +69,6 @@ CSS          2 repos        █░░░░░░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/yjl9903/yjl9903/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
