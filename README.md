@@ -21,7 +21,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 
 ## Stats
 
-[![XLor's github stats](https://github-readme-stats.vercel.app/api?username=yjl9903&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![XLor's github stats](https://github-readme-stats.vercel.app/api?username=yjl9903&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
