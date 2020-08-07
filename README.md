@@ -26,7 +26,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.0%20million%20Lines%20of%20code-blue)
 
@@ -36,23 +36,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Timezone: Asia/Shanghai
 
 💬 Languages: 
-C++                      19 hrs 4 mins       █████████████████████░░░░   83.81% 
-Text                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71% 
-Vue.js                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
-TypeScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+C++                      19 hrs 13 mins      ███████████████████░░░░░░   78.2% 
+TypeScript               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
+Vue.js                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
+Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 🔥 Editors: 
-VS Code                  21 hrs 54 mins      ████████████████████████░   96.25% 
-WebStorm                 46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-IntelliJ                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+VS Code                  21 hrs 38 mins      ██████████████████████░░░   88.03% 
+WebStorm                 2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97%
 
 🐱‍💻 Projects: 
-5                        4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91% 
-8                        4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.5% 
-7                        4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36% 
-4                        1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-Text                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
+5                        4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27% 
+8                        4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.9% 
+7                        4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
+6                        3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+XLorJudge                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.22%
 
 ```
 
