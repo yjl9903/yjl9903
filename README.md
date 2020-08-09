@@ -28,7 +28,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.0%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.1%20million%20Lines%20of%20code-blue)
 
 📊 **This week I spent my time on** 
 
@@ -36,35 +36,33 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Timezone: Asia/Shanghai
 
 💬 Languages: 
-C++                      20 hrs 12 mins      ███████████████████░░░░░░   78.39% 
-TypeScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-Text                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+C++                      18 hrs 4 mins       █████████████████░░░░░░░░   68.09% 
+TypeScript               4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
+Text                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
+Markdown                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
 
 🔥 Editors: 
-VS Code                  22 hrs 44 mins      ██████████████████████░░░   88.23% 
-WebStorm                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77%
+VS Code                  20 hrs 47 mins      ███████████████████░░░░░░   78.33% 
+WebStorm                 5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67%
 
 🐱‍💻 Projects: 
-5                        4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
-8                        4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
-7                        4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
-6                        3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-XLorJudge                1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
+5                        4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
+8                        4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
+XLorJudge                4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
+6                        3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+9                        2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.12%
 
 ```
 
 **I mostly code in TypeScript** 
 
 ```text
-TypeScript   14 repos       █████████░░░░░░░░░░░░░░░░   35.9% 
-Vue          8 repos        █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-JavaScript   6 repos        ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-C++          5 repos        ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-HTML         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
+TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.9% 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
