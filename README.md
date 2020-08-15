@@ -26,9 +26,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.5%20million%20Lines%20of%20code-blue)
 
 📊 **This week I spent my time on** 
 
@@ -36,23 +36,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Timezone: Asia/Shanghai
 
 💬 Languages: 
-C++                      12 hrs 20 mins      ███████████████░░░░░░░░░░   60.25% 
-TypeScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Text                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+C++                      11 hrs 12 mins      ███████████████░░░░░░░░░░   60.41% 
+TypeScript               3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+Text                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
+Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 🔥 Editors: 
-VS Code                  16 hrs 22 mins      ████████████████████░░░░░   80.02% 
-WebStorm                 4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79% 
-IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+VS Code                  14 hrs 56 mins      ████████████████████░░░░░   80.47% 
+WebStorm                 3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
+IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🐱‍💻 Projects: 
-XLorJudge                4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79% 
-8                        2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
-7                        2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-9                        2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
-Text                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
+XLorJudge                3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
+8                        2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+7                        2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
+9                        2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Text                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.31%
 
 ```
 
