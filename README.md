@@ -28,7 +28,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.5%20million%20Lines%20of%20code-blue)
 
 📊 **This week I spent my time on** 
 
@@ -36,23 +36,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Timezone: Asia/Shanghai
 
 💬 Languages: 
-C++                      11 hrs 12 mins      ███████████████░░░░░░░░░░   60.41% 
-TypeScript               3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-Text                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
+C++                      8 hrs 43 mins       █████████████████░░░░░░░░   68.48% 
+Text                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
+TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 
 🔥 Editors: 
-VS Code                  14 hrs 56 mins      ████████████████████░░░░░   80.47% 
-WebStorm                 3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
-IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+VS Code                  11 hrs 49 mins      ███████████████████████░░   92.89% 
+WebStorm                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
+IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🐱‍💻 Projects: 
-XLorJudge                3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
-8                        2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
-7                        2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-9                        2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Text                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.31%
+8                        2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   23.14% 
+7                        2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88% 
+Text                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+10                       1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+TypeCheck                1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
 
 ```
 
