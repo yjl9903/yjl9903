@@ -26,37 +26,36 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20Lines%20of%20code-blue)
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
-C++                      8 hrs 43 mins       █████████████████░░░░░░░░   68.48% 
-Text                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
-TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+💬 Programming Languages: 
+C++                      8 hrs 14 mins       ██████████████████░░░░░░░   72.37% 
+Text                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
-🔥 Editors: 
-VS Code                  11 hrs 49 mins      ███████████████████████░░   92.89% 
-WebStorm                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+🔥 Code Editors: 
+VS Code                  11 hrs 20 mins      █████████████████████████   99.65% 
+IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 🐱‍💻 Projects: 
-8                        2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   23.14% 
-7                        2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88% 
-Text                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-10                       1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-TypeCheck                1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
+8                        2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89% 
+7                        2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   23.37% 
+Text                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+10                       1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+TypeCheck                1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65%
 
 ```
 
-**I mostly code in TypeScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.9% 
