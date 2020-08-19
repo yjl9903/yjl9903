@@ -26,9 +26,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20Lines%20of%20code-blue)
 
 📊 **This Week I Spend My Time On** 
 
@@ -36,20 +36,18 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 48 mins       █████████████████████░░░░   86.13% 
-Text                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+C++                      2 hrs 57 mins       ███████████████████████░░   91.68% 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 🔥 Code Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 13 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-8                        2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.7% 
-7                        2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   39.44% 
-Text                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
-blog                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
+8                        2 hrs 56 mins       ██████████████████████░░░   91.44% 
+blog                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 ```
 
