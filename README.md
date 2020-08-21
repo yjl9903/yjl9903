@@ -26,32 +26,31 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 57 mins       █████████████████░░░░░░░░   69.88% 
-Vue.js                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+C++                      1 hr 54 mins        ██████████████░░░░░░░░░░░   59.32% 
+Vue.js                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
-🔥 Code Editors: 
-VS Code                  3 hrs 13 mins       ███████████████████░░░░░░   76.23% 
-WebStorm                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.77%
+🔥 Editors: 
+VS Code                  2 hrs 12 mins       █████████████████░░░░░░░░   68.76% 
+WebStorm                 1 hr                ███████░░░░░░░░░░░░░░░░░░   31.24%
 
 🐱‍💻 Projects: 
-8                        2 hrs 56 mins       █████████████████░░░░░░░░   69.7% 
-cfany                    1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.77% 
-blog                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+10                       1 hr 47 mins        ██████████████░░░░░░░░░░░   55.73% 
+cfany                    1 hr                ███████░░░░░░░░░░░░░░░░░░   31.24% 
+Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
 
 ```
 
