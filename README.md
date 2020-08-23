@@ -28,7 +28,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,22 +36,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 54 mins        ███████████░░░░░░░░░░░░░░   46.94% 
-Vue.js                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.6% 
-TypeScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.1% 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47%
+Vue.js                   3 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.54% 
+C++                      1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03% 
+TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       ███████████████░░░░░░░░░░   61.72% 
-WebStorm                 1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   38.28%
+WebStorm                 5 hrs 5 mins        ████████████████░░░░░░░░░   66.88% 
+VS Code                  2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.12%
 
 🐱‍💻 Projects: 
-10                       1 hr 47 mins        ███████████░░░░░░░░░░░░░░   44.1% 
-cfany                    1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   38.28% 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-autosub                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
+cfany                    5 hrs 5 mins        ████████████████░░░░░░░░░   66.88% 
+10                       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.52% 
+Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
+autosub                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 ```
 
