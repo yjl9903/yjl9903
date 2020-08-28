@@ -28,7 +28,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,22 +36,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   43.01% 
-Vue.js                   3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.57% 
-TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+Vue.js                   3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.9% 
+C++                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64% 
+TypeScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.41% 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       ████████████░░░░░░░░░░░░░   51.42% 
-WebStorm                 4 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.58%
+WebStorm                 5 hrs 48 mins       ██████████████████░░░░░░░   73.24% 
+VS Code                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   26.76%
 
 🐱‍💻 Projects: 
-cfany                    4 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.58% 
-10                       1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.27% 
-fzu                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
+cfany                    4 hrs 5 mins        █████████████░░░░░░░░░░░░   51.59% 
+fzu                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64% 
+XLoJ-Polygon             1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
+XLoJ-Server              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 
 ```
 
