@@ -27,74 +27,46 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-> 🏆 897 Contributions in year 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 0 Owned Private Repository 
- > 
-**I'm a night 🦉** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-🌞 Morning    123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-🌆 Daytime    475 commits    ████████░░░░░░░░░░░░░░░░░   33.01% 
-🌃 Evening    654 commits    ███████████░░░░░░░░░░░░░░   45.45% 
-🌙 Night      187 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
+⌚︎ Time Zone: Asia/Shanghai
 
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Shanghai
-
-💬 Languages: 
-C++                      19 hrs 24 mins      █████████████████████░░░░   84.69% 
-Text                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-Vue.js                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
-TypeScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+💬 Programming Languages: 
+TypeScript               7 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.1% 
+Vue.js                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+C++                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 🔥 Editors: 
-VS Code                  22 hrs 3 mins       ████████████████████████░   96.27% 
-WebStorm                 46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-IntelliJ                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+WebStorm                 13 hrs 31 mins      █████████████████████░░░░   86.81% 
+VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
 
 🐱‍💻 Projects: 
-5                        4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76% 
-8                        4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36% 
-7                        4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22% 
-4                        1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Text                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.88%
+XLoJ-Server              8 hrs 28 mins       █████████████░░░░░░░░░░░░   54.46% 
+cfany                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.74% 
+fzu                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+XLoJ-Polygon             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
+gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 ```
 
-**I mostly code in TypeScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript   14 repos       █████████░░░░░░░░░░░░░░░░   35.9% 
-Vue          8 repos        █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-JavaScript   6 repos        ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-C++          5 repos        ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-HTML         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
+TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.9% 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/yjl9903/yjl9903/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
