@@ -26,7 +26,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -36,22 +36,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.9% 
-C++                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-TypeScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.41% 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
+TypeScript               7 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.1% 
+Vue.js                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+C++                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 🔥 Editors: 
-WebStorm                 5 hrs 48 mins       ██████████████████░░░░░░░   73.24% 
-VS Code                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   26.76%
+WebStorm                 13 hrs 31 mins      █████████████████████░░░░   86.81% 
+VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
 
 🐱‍💻 Projects: 
-cfany                    4 hrs 5 mins        █████████████░░░░░░░░░░░░   51.59% 
-fzu                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-XLoJ-Polygon             1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-XLoJ-Server              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
+XLoJ-Server              8 hrs 28 mins       █████████████░░░░░░░░░░░░   54.46% 
+cfany                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.74% 
+fzu                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+XLoJ-Polygon             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
+gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 ```
 
