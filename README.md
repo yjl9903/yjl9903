@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.1% 
-Vue.js                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
-C++                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+TypeScript               6 hrs 55 mins       ██████████████░░░░░░░░░░░   55.55% 
+C++                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
 
 🔥 Editors: 
-WebStorm                 13 hrs 31 mins      █████████████████████░░░░   86.81% 
-VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
+WebStorm                 9 hrs 58 mins       ████████████████████░░░░░   80.06% 
+VS Code                  2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94%
 
 🐱‍💻 Projects: 
-XLoJ-Server              8 hrs 28 mins       █████████████░░░░░░░░░░░░   54.46% 
-cfany                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-fzu                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-XLoJ-Polygon             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+XLoJ-Server              8 hrs 28 mins       █████████████████░░░░░░░░   68.05% 
+fzu                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
+XLoJ-Polygon             1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+NJUST_OnlineJudge_M6-mast26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 ```
 
