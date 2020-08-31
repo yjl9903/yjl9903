@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 55 mins       ██████████████░░░░░░░░░░░   55.55% 
-C++                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
+TypeScript               7 hrs 7 mins        ████████████████░░░░░░░░░   65.39% 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+Docker                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 🔥 Editors: 
-WebStorm                 9 hrs 58 mins       ████████████████████░░░░░   80.06% 
-VS Code                  2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94%
+WebStorm                 10 hrs 12 mins      ███████████████████████░░   93.79% 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
 
 🐱‍💻 Projects: 
-XLoJ-Server              8 hrs 28 mins       █████████████████░░░░░░░░   68.05% 
-fzu                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-XLoJ-Polygon             1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-NJUST_OnlineJudge_M6-mast26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
-gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+XLoJ-Server              8 hrs 28 mins       ███████████████████░░░░░░   77.9% 
+XLoJ-Polygon             1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+NJUST_OnlineJudge_M6-mast26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
+XLorJudge                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
+gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 ```
 
