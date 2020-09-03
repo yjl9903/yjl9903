@@ -37,23 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 12 mins      ███████████████░░░░░░░░░░   61.88% 
-JavaScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87% 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+TypeScript               20 hrs 48 mins      █████████████████░░░░░░░░   70.62% 
+JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
+YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
 
 🔥 Editors: 
-WebStorm                 12 hrs 54 mins      ████████████████░░░░░░░░░   65.5% 
-VS Code                  6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.12% 
-IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+WebStorm                 21 hrs 55 mins      ██████████████████░░░░░░░   74.42% 
+VS Code                  7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66% 
+IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 🐱‍💻 Projects: 
-XLoJ-Server              8 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   43.01% 
-RoughChart               5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.83% 
-XLorJudge                2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-XLoJ-Polygon             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-chart.xkcd               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
+XLoJ-Polygon             9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.42% 
+XLoJ-Server              8 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.79% 
+RoughChart               5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+XLorJudge                3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+chart.xkcd               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
 ```
 
