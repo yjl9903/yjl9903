@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,23 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               28 hrs 53 mins      ███████████████████░░░░░░   76.05% 
-Other                    1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-JavaScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
-JSON                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
+TypeScript               26 hrs 7 mins       ███████████████████░░░░░░   77.24% 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+Other                    1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+YAML                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
 
 🔥 Editors: 
-WebStorm                 30 hrs 21 mins      ████████████████████░░░░░   79.93% 
-VS Code                  7 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+WebStorm                 25 hrs 34 mins      ███████████████████░░░░░░   75.62% 
+VS Code                  7 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58% 
+IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             13 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   35.76% 
-XLorJudge                8 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.49% 
-XLoJ-Server              8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75% 
-RoughChart               5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-chart.xkcd               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+XLoJ-Polygon             17 hrs 3 mins       ████████████░░░░░░░░░░░░░   50.43% 
+XLorJudge                8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26% 
+RoughChart               5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+chart.xkcd               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+NJUST_OnlineJudge_M6-mast27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
 
 ```
 
