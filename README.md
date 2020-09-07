@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -37,23 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               26 hrs 7 mins       ███████████████████░░░░░░   78.0% 
-JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
-YAML                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+TypeScript               25 hrs 55 mins      ███████████████████░░░░░░   75.86% 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
+Other                    1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
+NASM                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
 
 🔥 Editors: 
-WebStorm                 25 hrs 34 mins      ███████████████████░░░░░░   76.36% 
-VS Code                  7 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   22.83% 
-IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+WebStorm                 25 hrs 20 mins      ██████████████████░░░░░░░   74.15% 
+VS Code                  8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05% 
+IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             17 hrs 3 mins       ████████████░░░░░░░░░░░░░   50.92% 
-XLorJudge                8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51% 
-RoughChart               5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-chart.xkcd               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-test                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+XLoJ-Polygon             17 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.9% 
+XLorJudge                8 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32% 
+RoughChart               5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
+硬件实习                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77% 
+chart.xkcd               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
 
 ```
 
