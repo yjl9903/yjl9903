@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -37,23 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               24 hrs 43 mins      ██████████████████░░░░░░░   73.98% 
-C++                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
-JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
-NASM                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+TypeScript               21 hrs 27 mins      ██████████████████░░░░░░░   74.73% 
+C++                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+NASM                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+Other                    58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
 🔥 Editors: 
-WebStorm                 22 hrs 54 mins      █████████████████░░░░░░░░   68.54% 
-VS Code                  10 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   30.65% 
-IntelliJ                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+WebStorm                 24 hrs 18 mins      █████████████████████░░░░   84.67% 
+VS Code                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.33%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             17 hrs 3 mins       ████████████░░░░░░░░░░░░░   51.03% 
-XLorJudge                5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-RoughChart               5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-666                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-硬件实习                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
+XLoJ-Polygon             17 hrs 3 mins       ██████████████░░░░░░░░░░░   59.41% 
+XLorJudge                7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.45% 
+666                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
+硬件实习                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
+RoughChart               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
 
 ```
 
