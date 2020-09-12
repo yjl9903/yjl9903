@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       █████████████░░░░░░░░░░░░   54.42% 
-HTML                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
-C++                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-NASM                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+TypeScript               6 hrs 5 mins        ███████████░░░░░░░░░░░░░░   46.98% 
+HTML                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
+C++                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+NASM                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
 
 🔥 Editors: 
-WebStorm                 13 hrs 41 mins      ███████████████████░░░░░░   79.09% 
-VS Code                  3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91%
+WebStorm                 10 hrs 12 mins      ███████████████████░░░░░░   78.68% 
+VS Code                  2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32%
 
 🐱‍💻 Projects: 
-adminportal              8 hrs 40 mins       ████████████░░░░░░░░░░░░░   50.19% 
-XLoJ-Polygon             3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-XLorJudge                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-666                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
-硬件实习                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.61%
+adminportal              8 hrs 40 mins       ████████████████░░░░░░░░░   66.9% 
+XLorJudge                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
+666                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
+硬件实习                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
+668                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
 
 ```
 
