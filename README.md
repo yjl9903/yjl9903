@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,23 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   42.19% 
-C++                      6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38% 
-HTML                     3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-Java                     3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
-YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+C++                      6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   31.32% 
+TypeScript               6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   30.57% 
+Java                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+HTML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+Groovy                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 🔥 Editors: 
-WebStorm                 16 hrs 52 mins      ██████████████░░░░░░░░░░░   57.16% 
-VS Code                  8 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.94% 
-IntelliJ                 4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
+VS Code                  8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.55% 
+WebStorm                 7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   39.08% 
+IntelliJ                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37%
 
 🐱‍💻 Projects: 
-adminportal              16 hrs 42 mins      ██████████████░░░░░░░░░░░   56.56% 
-bamboo                   4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-ccpc-online              2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
-2020pnrc                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-deploy                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.09%
+adminportal              7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   38.2% 
+bamboo                   4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+ccpc-online              2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+2020pnrc                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
+deploy                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
 
 ```
 
