@@ -27,9 +27,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,23 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   31.32% 
-TypeScript               6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   30.57% 
-Java                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-HTML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
-Groovy                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+C++                      7 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.04% 
+TypeScript               4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45% 
+Java                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
+HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+Python                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.55% 
-WebStorm                 7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   39.08% 
-IntelliJ                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37%
+VS Code                  10 hrs 23 mins      ████████████░░░░░░░░░░░░░   50.56% 
+WebStorm                 6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.46% 
+IntelliJ                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98%
 
 🐱‍💻 Projects: 
-adminportal              7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   38.2% 
-bamboo                   4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18% 
-ccpc-online              2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-2020pnrc                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-deploy                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+adminportal              5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.9% 
+2020uncpc                4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27% 
+bamboo                   4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79% 
+ccpc-online              2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+deploy                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
 
 ```
 
