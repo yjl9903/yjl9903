@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,23 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 12 mins       ████████████████████░░░░░   81.31% 
-Java                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
-Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44% 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+C++                      11 hrs 14 mins      █████████████████████░░░░   86.47% 
+Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      ███████████████████████░░   92.4% 
-IntelliJ                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
+VS Code                  12 hrs 46 mins      ████████████████████████░   98.31% 
+WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 🐱‍💻 Projects: 
-2020uncpc                4 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.06% 
-ccpc-online              2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.9% 
-672                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-bamboo                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+2020uncpc                4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   38.36% 
+ccpc-online              2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   22.55% 
+202009                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+672                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
 
 ```
 
