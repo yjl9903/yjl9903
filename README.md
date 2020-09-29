@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      11 hrs 7 mins       ████████████████████░░░░░   81.15% 
-TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33% 
-Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
+C++                      15 hrs 59 mins      █████████████████████░░░░   85.09% 
+TypeScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
+Python                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Text                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 🔥 Editors: 
-VS Code                  12 hrs 44 mins      ███████████████████████░░   93.05% 
-WebStorm                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.95%
+VS Code                  17 hrs 50 mins      ███████████████████████░░   94.93% 
+WebStorm                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
 
 🐱‍💻 Projects: 
-2020uncpc                4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.39% 
-2020impc                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-202009                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
-672                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-cfany                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.34%
+2020uncpc                4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   26.54% 
+2018nwerc                4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91% 
+2020impc                 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+202009                   2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+672                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
 
 ```
 
