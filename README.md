@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      17 hrs 19 mins      ██████████████░░░░░░░░░░░   55.83% 
-TypeScript               8 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.49% 
-Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
-Other                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-Text                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
+C++                      15 hrs              ████████████░░░░░░░░░░░░░   49.63% 
+TypeScript               10 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   35.05% 
+Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+Other                    54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 🔥 Editors: 
-VS Code                  20 hrs 18 mins      ████████████████░░░░░░░░░   65.44% 
-WebStorm                 10 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   34.56%
+VS Code                  17 hrs 42 mins      ██████████████░░░░░░░░░░░   58.56% 
+WebStorm                 12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.44%
 
 🐱‍💻 Projects: 
-2018nwerc                5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
-XLoJ-Polygon             5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
-XLorJudge                4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-2020gf                   3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
-2020impc                 2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
+XLoJ-Polygon             6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   22.85% 
+2018nwerc                5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
+XLorJudge                4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+2020gf                   3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
+2020impc                 2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
 
 ```
 
