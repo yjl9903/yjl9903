@@ -37,22 +37,21 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 25 mins       ██████████████░░░░░░░░░░░   57.97% 
-C++                      3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58% 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.87% 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-Docker                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
+TypeScript               5 hrs 37 mins       ███████████████████░░░░░░   78.5% 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
+Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
 
 🔥 Editors: 
-WebStorm                 9 hrs 50 mins       █████████████████░░░░░░░░   67.73% 
-VS Code                  4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.27%
+WebStorm                 7 hrs 1 min         ████████████████████████░   98.03% 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.12% 
-XLorJudge                4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.07% 
-2020gf                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-libreoj                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
-Unknown Project          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+XLoJ-Polygon             4 hrs 53 mins       █████████████████░░░░░░░░   68.11% 
+XLorJudge                2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.81% 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 ```
 
