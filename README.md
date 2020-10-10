@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,21 +37,20 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 37 mins       ███████████████████░░░░░░   78.5% 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
-Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+TypeScript               2 hrs 46 mins       ███████████████████████░░   95.38% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 Editors: 
-WebStorm                 7 hrs 1 min         ████████████████████████░   98.03% 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
+WebStorm                 2 hrs 53 mins       ████████████████████████░   99.16% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             4 hrs 53 mins       █████████████████░░░░░░░░   68.11% 
-XLorJudge                2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.81% 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
-admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+XLoJ-Polygon             2 hrs 39 mins       ██████████████████████░░░   91.14% 
+XLorJudge                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 ```
 
