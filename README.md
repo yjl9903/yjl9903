@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -37,20 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 46 mins       ███████████████████████░░   95.38% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+TypeScript               1 hr 1 min          ████████████░░░░░░░░░░░░░   51.46% 
+C++                      48 mins             ██████████░░░░░░░░░░░░░░░   41.16% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 🔥 Editors: 
-WebStorm                 2 hrs 53 mins       ████████████████████████░   99.16% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+WebStorm                 1 hr 4 mins         █████████████░░░░░░░░░░░░   54.48% 
+VS Code                  54 mins             ███████████░░░░░░░░░░░░░░   45.52%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             2 hrs 39 mins       ██████████████████████░░░   91.14% 
-XLorJudge                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+XLoJ-Polygon             59 mins             ████████████░░░░░░░░░░░░░   49.84% 
+global11                 48 mins             ██████████░░░░░░░░░░░░░░░   41.16% 
+XLorJudge                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.63% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
+admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 ```
 
