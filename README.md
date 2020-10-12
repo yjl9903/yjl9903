@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,16 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          ████████████░░░░░░░░░░░░░   51.46% 
-C++                      48 mins             ██████████░░░░░░░░░░░░░░░   41.16% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+C++                      3 hrs 40 mins       ███████████████████████░░   92.52% 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48%
 
 🔥 Editors: 
-WebStorm                 1 hr 4 mins         █████████████░░░░░░░░░░░░   54.48% 
-VS Code                  54 mins             ███████████░░░░░░░░░░░░░░   45.52%
+VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-XLoJ-Polygon             59 mins             ████████████░░░░░░░░░░░░░   49.84% 
-global11                 48 mins             ██████████░░░░░░░░░░░░░░░   41.16% 
-XLorJudge                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.63% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
-admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+global11                 2 hrs 47 mins       █████████████████░░░░░░░░   70.4% 
+edu96                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   22.12% 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48%
 
 ```
 
