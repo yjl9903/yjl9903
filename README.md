@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,25 +37,25 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 31 mins       ██████████████░░░░░░░░░░░   57.45% 
-Python                   2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+C++                      4 hrs 36 mins       █████████████░░░░░░░░░░░░   53.72% 
+Python                   2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37% 
+C                        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        ████████████████░░░░░░░░░   64.05% 
-PyCharm                  2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   35.41% 
-CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+VS Code                  5 hrs 2 mins        ██████████████░░░░░░░░░░░   58.69% 
+PyCharm                  2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.45% 
+CLion                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🐱‍💻 Projects: 
-global11                 2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.57% 
-OPFSumm                  2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   31.3% 
-edu96                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-VideoSum                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
-pyccv-0.08               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.71%
+global11                 2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.59% 
+OPFSumm                  2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.4% 
+edu96                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+VideoSum                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+sm1                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
 
 ```
 
