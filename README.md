@@ -27,9 +27,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,25 +37,25 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.83% 
-Python                   2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78% 
-Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.08% 
-C                        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
+C++                      2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.27% 
+Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
+C                        31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
+Vue.js                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01%
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.56% 
-PyCharm                  3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.78% 
-CLion                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-WebStorm                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-IntelliJ                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+VS Code                  2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.35% 
+CLion                    1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   22.97% 
+WebStorm                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
+PyCharm                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.08% 
+IntelliJ                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.46%
 
 🐱‍💻 Projects: 
-OPFSumm                  2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   26.36% 
-gpofkorea                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-qhd                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-xlorpaste-fe             49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-VideoSum                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
+gpofkorea                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+qhd                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.96% 
+xlorpaste-fe             49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
+sm1                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.68%
 
 ```
 
