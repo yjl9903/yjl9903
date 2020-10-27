@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,25 +37,25 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.88% 
-Java                     3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.85% 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77%
+Java                     7 hrs 20 mins       ██████████████░░░░░░░░░░░   56.28% 
+C++                      3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.77% 
+Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       ████████████░░░░░░░░░░░░░   50.14% 
-IntelliJ                 3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.06% 
-CLion                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
-PyCharm                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+IntelliJ                 7 hrs 44 mins       ██████████████░░░░░░░░░░░   59.34% 
+VS Code                  4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   34.01% 
+CLion                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+PyCharm                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 🐱‍💻 Projects: 
-bamboo                   3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   39.46% 
-bj1                      2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   27.13% 
-gpofkorea                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
-脚本                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+bamboo                   7 hrs 2 mins        █████████████░░░░░░░░░░░░   53.99% 
+bj1                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.4% 
+gpofkorea                1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+soot                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
 
 ```
 
