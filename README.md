@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,23 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.46% 
-Java                     5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.16% 
-C                        3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44% 
-Text                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+C++                      8 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.89% 
+Java                     5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.62% 
+C                        3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Text                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 🔥 Editors: 
-VS Code                  7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.38% 
-IntelliJ                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.91% 
-CLion                    4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.71%
+VS Code                  9 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.72% 
+IntelliJ                 5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.17% 
+CLion                    4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12%
 
 🐱‍💻 Projects: 
-bamboo                   5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   30.7% 
-ex                       3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89% 
-bj2                      2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-bj1                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Text                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
+bamboo                   4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41% 
+my                       4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65% 
+ex                       3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.5% 
+bj2                      2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Text                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
 
 ```
 
