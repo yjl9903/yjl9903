@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      7 hrs 44 mins       █████████████░░░░░░░░░░░░   51.55% 
-C                        2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
-Text                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-CMake                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-Kotlin                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
+C++                      4 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.08% 
+C                        2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   22.95% 
+Text                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+CMake                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+Kotlin                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
 
 🔥 Editors: 
-VS Code                  9 hrs 9 mins        ███████████████░░░░░░░░░░   60.91% 
-CLion                    4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.92% 
-IntelliJ                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
-PyCharm                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+VS Code                  6 hrs 9 mins        ████████████░░░░░░░░░░░░░   51.19% 
+CLion                    4 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.11% 
+IntelliJ                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+PyCharm                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 🐱‍💻 Projects: 
-my                       4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.6% 
-ex                       4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   27.21% 
-bj2                      2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-Text                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Kotlin                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+my                       4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   39.46% 
+ex                       4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.98% 
+Text                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Kotlin                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
+Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
 ```
 
