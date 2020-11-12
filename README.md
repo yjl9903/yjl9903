@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,24 +37,21 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 5 mins         █████████████░░░░░░░░░░░░   52.39% 
-Kotlin                   36 mins             ███████░░░░░░░░░░░░░░░░░░   29.35% 
-C                        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+C++                      1 hr 32 mins        ███████████████████████░░   93.58% 
+C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████░░░░░░░░░░░░   54.15% 
-IntelliJ                 37 mins             ███████░░░░░░░░░░░░░░░░░░   29.85% 
-CLion                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-PyCharm                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
+VS Code                  1 hr 34 mins        ████████████████████████░   95.78% 
+CLion                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.22%
 
 🐱‍💻 Projects: 
-cc                       1 hr 3 mins         ████████████░░░░░░░░░░░░░   51.12% 
-Kotlin                   34 mins             ███████░░░░░░░░░░░░░░░░░░   27.96% 
-ex                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
-OPFSumm                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+cc                       1 hr 3 mins         ████████████████░░░░░░░░░   64.24% 
+2                        27 mins             ███████░░░░░░░░░░░░░░░░░░   27.74% 
+ex                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
+my                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 
 ```
 
