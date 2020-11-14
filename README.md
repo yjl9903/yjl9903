@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   43.44% 
-Kotlin                   2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.57% 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+Kotlin                   4 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.41% 
+C++                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.66% 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 🔥 Editors: 
-VS Code                  4 hrs 42 mins       ████████████████░░░░░░░░░   64.43% 
-IntelliJ                 2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.57%
+VS Code                  4 hrs 46 mins       ████████████░░░░░░░░░░░░░   50.59% 
+IntelliJ                 4 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.41%
 
 🐱‍💻 Projects: 
-Kotlin                   2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.53% 
-cc                       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-681                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-2020zj                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-rustlings                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.79%
+Kotlin                   4 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.38% 
+cc                       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+681                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
+2020zj                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+rustlings                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.81%
 
 ```
 
