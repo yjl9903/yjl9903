@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,22 +37,22 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 43 mins       █████████████░░░░░░░░░░░░   54.71% 
-C++                      2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
+Kotlin                   2 hrs 17 mins       █████████████████░░░░░░░░   70.47% 
+C++                      50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 🔥 Editors: 
-IntelliJ                 4 hrs 45 mins       █████████████░░░░░░░░░░░░   55.22% 
-VS Code                  3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.78%
+IntelliJ                 2 hrs 20 mins       ██████████████████░░░░░░░   71.82% 
+VS Code                  55 mins             ███████░░░░░░░░░░░░░░░░░░   28.18%
 
 🐱‍💻 Projects: 
-Kotlin                   4 hrs 45 mins       █████████████░░░░░░░░░░░░   55.18% 
-2020zj                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-681                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
-rustlings                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-0-模板                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+Kotlin                   2 hrs 20 mins       ██████████████████░░░░░░░   71.79% 
+684                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+2020zj                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
+2020brazil               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 
 ```
 
