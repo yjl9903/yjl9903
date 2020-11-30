@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.14% 
-Vue.js                   2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92% 
-C                        1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Java                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+C++                      6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.46% 
+Vue.js                   4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66% 
+TypeScript               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+C                        1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
+Java                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 🔥 Editors: 
-VS Code                  6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   47.33% 
-WebStorm                 3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.23% 
-CLion                    2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
-IntelliJ                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%
+VS Code                  8 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.89% 
+WebStorm                 6 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.83% 
+CLion                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+IntelliJ                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
 
 🐱‍💻 Projects: 
-cfany                    3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-cccc                     3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.51% 
-rtos                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-bamboo                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
-FreeRTOS                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
+cfany                    6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.48% 
+cccc                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+2020taipei               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+rtos                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
+bamboo                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
 ```
 
