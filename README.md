@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.46% 
-Vue.js                   4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66% 
-TypeScript               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-C                        1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
-Java                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+C++                      8 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   38.19% 
+Vue.js                   5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+TypeScript               2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
+C                        1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
+Java                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.89% 
-WebStorm                 6 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.83% 
-CLion                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-IntelliJ                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
+VS Code                  10 hrs 35 mins      ████████████░░░░░░░░░░░░░   48.78% 
+WebStorm                 8 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   38.21% 
+CLion                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
+IntelliJ                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 
 🐱‍💻 Projects: 
-cfany                    6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.48% 
-cccc                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-2020taipei               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
-rtos                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-bamboo                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
+cfany                    8 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.08% 
+cccc                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+2020taipei               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+rtos                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
+v-tooltip                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
 
 ```
 
