@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      15 hrs 7 mins       █████████████░░░░░░░░░░░░   54.64% 
-Vue.js                   4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Java                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
-TypeScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
-Text                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
+C++                      15 hrs 26 mins      █████████████░░░░░░░░░░░░   54.66% 
+Vue.js                   4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Java                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
+TypeScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
+Text                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.01%
 
 🔥 Editors: 
-VS Code                  19 hrs 5 mins       █████████████████░░░░░░░░   69.01% 
-WebStorm                 4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-IntelliJ                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
+VS Code                  19 hrs 41 mins      █████████████████░░░░░░░░   69.66% 
+WebStorm                 4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+IntelliJ                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
+CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 🐱‍💻 Projects: 
-cfany                    4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-bamboo                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
-整周期串                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-cccc                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-TypeCheck                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
+cfany                    4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+bamboo                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
+整周期串                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+ExprEval                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
+TypeCheck                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.98%
 
 ```
 
