@@ -27,9 +27,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      16 hrs 3 mins       ███████████████░░░░░░░░░░   62.69% 
-Java                     3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Vue.js                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
-Text                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
-C                        51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
+C++                      15 hrs 12 mins      ███████████████░░░░░░░░░░   63.49% 
+Java                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.6% 
+Vue.js                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
+Text                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+C                        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
 
 🔥 Editors: 
-VS Code                  20 hrs 16 mins      ███████████████████░░░░░░   79.15% 
-IntelliJ                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-WebStorm                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39%
+VS Code                  18 hrs 3 mins       ██████████████████░░░░░░░   75.43% 
+IntelliJ                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
 
 🐱‍💻 Projects: 
-整周期串                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-bamboo                   3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-ExprEval                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
-SpaceTravel              2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-TypeCheck                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.8%
+bamboo                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19% 
+整周期串                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+ExprEval                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+SpaceTravel              2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+TypeCheck                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
 
 ```
 
