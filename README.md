@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      15 hrs 12 mins      ███████████████░░░░░░░░░░   63.49% 
-Java                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.6% 
-Vue.js                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-Text                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-C                        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
+C++                      12 hrs 17 mins      ██████████████░░░░░░░░░░░   57.46% 
+Java                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+Vue.js                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
+C                        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02%
 
 🔥 Editors: 
-VS Code                  18 hrs 3 mins       ██████████████████░░░░░░░   75.43% 
-IntelliJ                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.98% 
-CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+VS Code                  14 hrs 54 mins      █████████████████░░░░░░░░   69.68% 
+IntelliJ                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   23.49% 
+PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
+CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
 
 🐱‍💻 Projects: 
-bamboo                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19% 
-整周期串                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-ExprEval                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-SpaceTravel              2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-TypeCheck                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
+bamboo                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.6% 
+ExprEval                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
+SpaceTravel              2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+TypeCheck                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
+post                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.72%
 
 ```
 
