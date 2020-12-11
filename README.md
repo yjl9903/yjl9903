@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,23 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      12 hrs 34 mins      ████████████████░░░░░░░░░   67.22% 
-Java                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
-Vue.js                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
-Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-C                        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.6%
+C++                      11 hrs 39 mins      █████████████████░░░░░░░░   69.24% 
+Java                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Vue.js                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
 
 🔥 Editors: 
-VS Code                  15 hrs 29 mins      ████████████████████░░░░░   82.79% 
-IntelliJ                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
+VS Code                  14 hrs 14 mins      █████████████████████░░░░   84.52% 
+IntelliJ                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
 
 🐱‍💻 Projects: 
-ExprEval                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-SpaceTravel              2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-TypeCheck                2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-bamboo                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
-post                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.68%
+ExprEval                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+SpaceTravel              2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
+bamboo                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+post                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
+hotpot                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.38%
 
 ```
 
