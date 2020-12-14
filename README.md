@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 33 mins       █████████████████░░░░░░░░   69.04% 
-Java                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
+C++                      6 hrs 57 mins       ███████████████░░░░░░░░░░   62.29% 
+Java                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 🔥 Editors: 
-VS Code                  10 hrs 44 mins      ███████████████████░░░░░░   77.67% 
-IntelliJ                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-PyCharm                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-WebStorm                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
+VS Code                  8 hrs 5 mins        ██████████████████░░░░░░░   72.35% 
+IntelliJ                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
+PyCharm                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.35% 
+WebStorm                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 🐱‍💻 Projects: 
-bj3                      3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   26.98% 
-SpaceTravel              1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-bamboo                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
-BrawlStars               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
-LCPMST                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
+bj3                      3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.41% 
+bamboo                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+BrawlStars               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
+LCPMST                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+test                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.95%
 
 ```
 
