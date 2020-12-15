@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,24 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 57 mins       ███████████████░░░░░░░░░░   62.29% 
-Java                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
+C++                      6 hrs 6 mins        ███████████████░░░░░░░░░░   60.57% 
+Java                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
 
 🔥 Editors: 
-VS Code                  8 hrs 5 mins        ██████████████████░░░░░░░   72.35% 
-IntelliJ                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
-PyCharm                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.35% 
-WebStorm                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+VS Code                  7 hrs 16 mins       ██████████████████░░░░░░░   72.04% 
+IntelliJ                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+WebStorm                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
 
 🐱‍💻 Projects: 
-bj3                      3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.41% 
-bamboo                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-BrawlStars               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-LCPMST                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-test                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.95%
+bj3                      3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.02% 
+bamboo                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+BrawlStars               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
+LCPMST                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+test                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
 
 ```
 
