@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,18 +50,6 @@ PyCharm                  41 mins             █░░░░░░░░░░�
 WebStorm                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
 
 ```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
-
 
 
 <!--END_SECTION:waka-->
