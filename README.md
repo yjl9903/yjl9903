@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -37,17 +37,17 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 6 mins        ███████████████░░░░░░░░░░   60.57% 
-Java                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
-Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
+C++                      4 hrs 50 mins       █████████████░░░░░░░░░░░░   51.85% 
+Java                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
 
 🔥 Editors: 
-VS Code                  7 hrs 16 mins       ██████████████████░░░░░░░   72.04% 
-IntelliJ                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
-PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-WebStorm                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
+VS Code                  6 hrs               ████████████████░░░░░░░░░   64.21% 
+IntelliJ                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+PyCharm                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
+WebStorm                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11%
 
 ```
 
