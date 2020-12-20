@@ -29,7 +29,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,17 +37,17 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   10 hrs 15 mins      ████████████░░░░░░░░░░░░░   49.92% 
-C++                      3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
-Java                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+Kotlin                   10 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   43.38% 
+C++                      5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.9% 
+Java                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   8.35% 
+YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
 
 🔥 Editors: 
-IntelliJ                 14 hrs 6 mins       █████████████████░░░░░░░░   68.68% 
-VS Code                  4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-PyCharm                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
-WebStorm                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21%
+IntelliJ                 15 hrs 44 mins      ████████████████░░░░░░░░░   64.77% 
+VS Code                  7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.18% 
+PyCharm                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
+WebStorm                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 ```
 
