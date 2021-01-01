@@ -37,16 +37,16 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   27.39% 
-Rust                     6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   26.55% 
-Vue.js                   5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
-JavaScript               2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
-Java                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
+Rust                     6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.84% 
+C++                      5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36% 
+Vue.js                   5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51% 
+JavaScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Java                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.98%
 
 🔥 Editors: 
-VS Code                  13 hrs 59 mins      ██████████████░░░░░░░░░░░   57.03% 
-CLion                    8 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.0% 
-IntelliJ                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
+VS Code                  13 hrs 4 mins       █████████████░░░░░░░░░░░░   55.16% 
+CLion                    8 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.62% 
+IntelliJ                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.21%
 
 ```
 
