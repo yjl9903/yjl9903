@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312701%20lines%20of%20code-blue)
 
@@ -37,16 +37,16 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   42.55% 
-Rust                     3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.17% 
-JavaScript               2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   23.12% 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
+JavaScript               2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.66% 
+Vue.js                   1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.87% 
+Rust                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19% 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 🔥 Editors: 
-VS Code                  7 hrs 51 mins       █████████████████░░░░░░░░   69.56% 
-CLion                    3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   30.24% 
-IntelliJ                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+VS Code                  3 hrs 29 mins       ███████████████████░░░░░░   79.15% 
+CLion                    55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
