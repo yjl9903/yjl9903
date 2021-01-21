@@ -37,14 +37,10 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               23 mins             █████████████████░░░░░░░░   70.99% 
-C++                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.22% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+C++                      7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  7 mins              █████████████████████████   100.0%
 
 ```
 
