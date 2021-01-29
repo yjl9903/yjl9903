@@ -37,15 +37,15 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 58 mins      ████████████░░░░░░░░░░░░░   50.04% 
-Python                   7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.09% 
-TypeScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
+C++                      13 hrs 46 mins      ████████████████░░░░░░░░░   64.93% 
+Python                   3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+TypeScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
+Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
 
 🔥 Editors: 
-VS Code                  14 hrs 37 mins      ████████████████░░░░░░░░░   66.69% 
-PyCharm                  7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.31%
+VS Code                  17 hrs 31 mins      ████████████████████░░░░░   82.56% 
+PyCharm                  3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44%
 
 ```
 
