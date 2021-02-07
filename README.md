@@ -27,7 +27,7 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307118%20lines%20of%20code-blue)
 
@@ -37,16 +37,15 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 10 mins       ███████████████░░░░░░░░░░   62.41% 
-Kotlin                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
-Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
+C++                      5 hrs 21 mins       ███████████░░░░░░░░░░░░░░   46.76% 
+Kotlin                   3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.85% 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
 
 🔥 Editors: 
-VS Code                  10 hrs 12 mins      ███████████████████░░░░░░   77.95% 
-IntelliJ                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94% 
-CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+VS Code                  7 hrs 17 mins       ███████████████░░░░░░░░░░   63.48% 
+IntelliJ                 4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.52%
 
 ```
 
