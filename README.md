@@ -27,9 +27,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307271%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,36 +37,17 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.1% 
-Vue.js                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
-C++                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+Kotlin                   9 hrs 6 mins        ██████████████░░░░░░░░░░░   56.98% 
+C++                      3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   22.01% 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Java                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
 
 🔥 Editors: 
-WebStorm                 13 hrs 31 mins      █████████████████████░░░░   86.81% 
-VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
-
-🐱‍💻 Projects: 
-XLoJ-Server              8 hrs 28 mins       █████████████░░░░░░░░░░░░   54.46% 
-cfany                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-fzu                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-XLoJ-Polygon             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-gql-demo                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+IntelliJ                 11 hrs 22 mins      █████████████████░░░░░░░░   71.18% 
+VS Code                  4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.82%
 
 ```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.9% 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-
-```
-
 
 
 <!--END_SECTION:waka-->
