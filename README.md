@@ -2,7 +2,7 @@
 
 An Active ICPCer.
 
-[![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor)](http://codeforces.com/profile/XLor)
+[![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor)](http://codeforces.com/profile/XLor) ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/107?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 Studying CS at Nan Jing University of Science and Technology.
 
