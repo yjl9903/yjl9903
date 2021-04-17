@@ -2,7 +2,7 @@
 
 An Active ICPCer.
 
-[![Codeforces Rating](http://cfrating.ihcr.top/?user=XLor)](http://codeforces.com/profile/XLor) ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/107?logoColor=white%26project=%26recentMS=0%26showProject=false)
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/107?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 Studying CS at Nan Jing University of Science and Technology.
 
@@ -24,13 +24,9 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 
 [![XLor's github stats](https://github-readme-stats.vercel.app/api?username=yjl9903&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjl9903&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307271%20lines%20of%20code-blue)
 
+<!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
