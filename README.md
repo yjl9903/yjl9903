@@ -27,23 +27,4 @@ Love 青葉 モカ, 美竹 蘭 and Afterglow!
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307271%20lines%20of%20code-blue)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Kotlin                   9 hrs 6 mins        ██████████████░░░░░░░░░░░   56.98% 
-C++                      3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   22.01% 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Java                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
-
-🔥 Editors: 
-IntelliJ                 11 hrs 22 mins      █████████████████░░░░░░░░   71.18% 
-VS Code                  4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.82%
-
-```
-
-
 <!--END_SECTION:waka-->
