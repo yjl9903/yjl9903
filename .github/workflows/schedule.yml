@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: master
+          committer_branch: main
           filename: metrics.svg
           config_timezone: Asia/Shanghai
           # Options
