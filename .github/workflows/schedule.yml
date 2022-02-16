@@ -1,0 +1,43 @@
+name: Update Metrics
+
+on:
+  schedule:
+    - cron: '0 0,3,6,9,12,15,18,21 * * *'
+  push:
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: master
+          filename: metrics.svg
+          config_timezone: Asia/Shanghai
+          # Options
+          user: yjl9903
+          template: classic
+          # Base content
+          base: header, activity, community, repositories
+          # Isocalendar
+          plugin_isocalendar: yes
+          # Introduction
+          plugin_introduction: yes
+          plugin_introduction_title: no
+          # Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: yjl9903/CPany, yjl9903/icpc-cli, yjl9903/XLang, XLorPaste/XLorPaste, yjl9903/XLorJudge
+          # Languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_skipped: Raft, yjl9903.github.io, NJUST-XCPC-WinterTraining-Solutions, OI-Public-Library, XLor-HDu, XLor-PKu, XLor-UVa
+          plugin_languages_details: bytes-size, percentage
+          # Wakatime
+          plugin_wakatime: no
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
+          plugin_wakatime_limit: 3
