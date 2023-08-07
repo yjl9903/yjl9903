@@ -33,7 +33,7 @@ jobs:
           # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_skipped: RSSHub, Placeholder, Tai-e, tai-e-ipta, XCPC, Raft, yjl9903.github.io, NJUST-XCPC-WinterTraining-Solutions, OI-Public-Library, XLor-HDu, XLor-PKu, XLor-UVa, NJUST-CPany
+          plugin_languages_skipped: RSSHub, Placeholder, Tai-e, tai-e-ipta, WALA-Sharp, XCPC, Raft, yjl9903.github.io, NJUST-XCPC-WinterTraining-Solutions, OI-Public-Library, XLor-HDu, XLor-PKu, XLor-UVa, NJUST-CPany
           plugin_languages_details: bytes-size, percentage
           # Wakatime
           plugin_wakatime: yes
