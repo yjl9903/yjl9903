@@ -1,19 +1,25 @@
 name: Update Metrics
 
 on:
-  push:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 0,3,6,9,12,15,18,21 * * *'
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
+          output_action: commit
           committer_branch: main
           filename: metrics.svg
           config_timezone: Asia/Shanghai
