@@ -29,7 +29,7 @@ jobs:
           plugin_introduction_title: no
           # Repositories
           plugin_repositories: yes
-          plugin_repositories_featured: yjl9903/CPany, yjl9903/icpc-cli, yjl9903/vite-plugin-info, yjl9903/Optc, yjl9903/Breadc, yjl9903/XLang
+          plugin_repositories_featured: yjl9903/AnimeSpace, yjl9903/AnimeGarden, yjl9903/unplugin-info, yjl9903/Optc, yjl9903/Breadc, yjl9903/icpc-cli
           # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
