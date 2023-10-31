@@ -28,6 +28,7 @@ jobs:
           template: classic
           # Base content
           base: header, activity, community, repositories
+          base_indepth: yes
           # Isocalendar
           plugin_isocalendar: yes
           # Introduction
