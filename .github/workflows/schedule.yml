@@ -27,7 +27,7 @@ jobs:
           user: yjl9903
           template: classic
           # Base content
-          base: header, activity, community, repositories
+          base: header, activity, community
           base_indepth: yes
           # Isocalendar
           plugin_isocalendar: yes
@@ -38,7 +38,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: yjl9903/AnimeSpace, yjl9903/AnimeGarden, yjl9903/unplugin-info, yjl9903/Optc, yjl9903/Breadc, yjl9903/icpc-cli
           # Languages
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_ignored: html, css
           plugin_languages_skipped: RSSHub, Placeholder, Tai-e, tai-e-ipta, WALA-Sharp, TOPLAS19-Reproduction, XCPC, Raft, yjl9903.github.io, NJUST-XCPC-WinterTraining-Solutions, OI-Public-Library, XLor-HDu, XLor-PKu, XLor-UVa, NJUST-CPany
           plugin_languages_details: bytes-size, percentage
