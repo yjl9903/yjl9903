@@ -36,7 +36,7 @@ jobs:
           plugin_introduction_title: no
           # Repositories
           plugin_repositories: yes
-          plugin_repositories_featured: yjl9903/AnimeSpace, yjl9903/AnimeGarden, yjl9903/unplugin-info, yjl9903/Optc, yjl9903/Breadc, yjl9903/icpc-cli
+          plugin_repositories_featured: yjl9903/AnimeSpace, yjl9903/AnimeGarden, yjl9903/unplugin-info, yjl9903/Optc, yjl9903/Breadc, yjl9903/naria2, yjl9903/icpc-cli
           # Languages
           plugin_languages: no
           plugin_languages_ignored: html, css
