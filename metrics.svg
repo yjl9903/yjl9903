@@ -431,7 +431,7 @@
                                         <span>created Jul 11 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Convenient BitTorrent Client and CLI wrapper based on aria2 JSON-RPC</div>
+                                <div class="field description">Convenient BitTorrent Client based on the aria2 JSON-RPC</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
