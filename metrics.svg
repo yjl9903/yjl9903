@@ -1609,17 +1609,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">resonance-market</span>
-                                <div class="bar" style="width: 60.903999999999996%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 67.856%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">85%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">AnimePaste</span>
-                                <div class="bar" style="width: 6.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 6.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Rename</span>
-                                <div class="bar" style="width: 4.688000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">memofunc</span>
+                                <div class="bar" style="width: 5.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -1629,17 +1629,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 47.912%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">60%</span>
+                                <div class="bar" style="width: 53.248%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 11.120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 12.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 5.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                         </div>
@@ -1651,13 +1651,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">VS Code</span>
-                                <div class="bar" style="width: 75.312%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">94%</span>
+                                <div class="bar" style="width: 79.912%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Intellijidea</span>
-                                <div class="bar" style="width: 4.688000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 0.08800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -1666,12 +1666,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Windows</span>
-                                <div class="bar" style="width: 79.92000000000002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.912%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mac</span>
-                                <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.08800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
