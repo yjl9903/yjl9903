@@ -1629,11 +1629,6 @@
                                 <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
-                            <div class="entry">
-                                <span class="name">Sharp-Reproduction</span>
-                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1644,11 +1639,6 @@
                                 <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
-                            <div class="entry">
-                                <span class="name">Java</span>
-                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
                         </div>
                     </section>
                 </div>
@@ -1658,13 +1648,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">VS Code</span>
-                                <div class="bar" style="width: 58.16%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Intellijidea</span>
-                                <div class="bar" style="width: 21.840000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                         </div>
                     </section>
@@ -1675,11 +1660,6 @@
                                 <span class="name">Windows</span>
                                 <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Mac</span>
-                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
